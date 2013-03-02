@@ -18,7 +18,7 @@
 PRODUCT_COPY_FILES += \
  $(LOCAL_PATH)/proprietary/lib/libnvmm_image.so:system/lib/libnvmm_image.so \
  $(LOCAL_PATH)/proprietary/lib/libnvodm_hdmi.so:system/lib/libnvodm_hdmi.so \
- $(LOCAL_PATH)/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
+ $(LOCAL_PATH)/proprietary/lib/hw/hwcomposer.tegra_v0.so:system/lib/hw/hwcomposer.tegra_v0.so \
  $(LOCAL_PATH)/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
  $(LOCAL_PATH)/proprietary/lib/libnvcontrol_jni.so:system/lib/libnvcontrol_jni.so \
  $(LOCAL_PATH)/proprietary/lib/libnvodm_misc.so:system/lib/libnvodm_misc.so \
